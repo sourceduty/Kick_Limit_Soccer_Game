@@ -1,7 +1,7 @@
 ### Kick_Limit_Soccer_Game
 
 ⚽ The classic game of soccer with limited ball kicking rules.
-
+#
 ### CONCEPT
 
 Classic Soccer Rules:
@@ -15,13 +15,13 @@ Each soccer team consists of 11 soccer players, one of which is the goalkeeper. 
 Kick Limit Soccer Rules:
 
 Each time scores goals with a limited amount of kicks of the ball. The team with the most goals at the end of the limited game wins.
-
+#
 ### LICENSE
 
 Copyright (C) 2023,  Sourceduty - All Rights Reserved.
 
 THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
-
+#
 ### DEVELOPMENT
 
 Coming soon.
