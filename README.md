@@ -14,7 +14,7 @@ Each soccer team consists of 11 soccer players, one of which is the goalkeeper. 
 
 Kick Limit Soccer Rules:
 
-Each time scores goals with a limited amount of ball kicks. The team with the most goals at the end of the limited game wins.
+Each team scores goals with a limited amount of ball kicks. The team with the most goals at the end of the limited game wins.
 #
 ### LICENSE
 
@@ -26,9 +26,6 @@ THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
 
 ChatGPT Concept:
 
-![Screenshot](https://github.com/sourceduty/Kick_Limit_Soccer_Game/assets/123030236/1d2f8e97-35a7-43db-a114-3202d13b5a75)
-
-#
 ```
 import random
 
